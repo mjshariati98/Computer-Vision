@@ -1,0 +1,283 @@
+Epoch 1/10
+----------
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:481: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+train Loss: 0.7385 Acc: 0.7543 TopK-Acc: 0.9718
+valid Loss: 0.4255 Acc: 0.8547 TopK-Acc: 0.9973
+
+Epoch 2/10
+----------
+train Loss: 0.3765 Acc: 0.8679 TopK-Acc: 0.9982
+valid Loss: 0.4022 Acc: 0.8593 TopK-Acc: 0.9973
+
+Epoch 3/10
+----------
+train Loss: 0.2687 Acc: 0.9048 TopK-Acc: 0.9987
+valid Loss: 0.3528 Acc: 0.8747 TopK-Acc: 0.9973
+
+Epoch 4/10
+----------
+train Loss: 0.2096 Acc: 0.9260 TopK-Acc: 0.9995
+valid Loss: 0.3937 Acc: 0.8720 TopK-Acc: 0.9980
+
+Epoch 5/10
+----------
+train Loss: 0.1587 Acc: 0.9424 TopK-Acc: 0.9997
+valid Loss: 0.3890 Acc: 0.8760 TopK-Acc: 0.9987
+
+Epoch 6/10
+----------
+train Loss: 0.1312 Acc: 0.9539 TopK-Acc: 0.9999
+valid Loss: 0.3767 Acc: 0.8853 TopK-Acc: 1.0000
+
+Epoch 7/10
+----------
+train Loss: 0.1069 Acc: 0.9629 TopK-Acc: 0.9999
+valid Loss: 0.4170 Acc: 0.8807 TopK-Acc: 0.9987
+
+Epoch 8/10
+----------
+train Loss: 0.0894 Acc: 0.9696 TopK-Acc: 0.9999
+valid Loss: 0.4437 Acc: 0.8793 TopK-Acc: 0.9993
+
+Epoch 9/10
+----------
+train Loss: 0.0753 Acc: 0.9739 TopK-Acc: 1.0000
+valid Loss: 0.4393 Acc: 0.8860 TopK-Acc: 0.9973
+
+Epoch 10/10
+----------
+train Loss: 0.0692 Acc: 0.9765 TopK-Acc: 0.9999
+valid Loss: 0.4683 Acc: 0.8733 TopK-Acc: 0.9987
+
+Training complete in 7m 34s
+Best val Acc: 0.886000
+Best val TopK-Acc: 1.000000
+
+
+Epoch 11/20
+----------
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:481: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+train Loss: 0.0563 Acc: 0.9804 TopK-Acc: 1.0000
+valid Loss: 0.4646 Acc: 0.8773 TopK-Acc: 0.9973
+
+Epoch 12/20
+----------
+train Loss: 0.0491 Acc: 0.9841 TopK-Acc: 1.0000
+valid Loss: 0.4639 Acc: 0.8840 TopK-Acc: 0.9987
+
+Epoch 13/20
+----------
+train Loss: 0.0398 Acc: 0.9863 TopK-Acc: 1.0000
+valid Loss: 0.5272 Acc: 0.8773 TopK-Acc: 0.9987
+
+Epoch 14/20
+----------
+train Loss: 0.0380 Acc: 0.9873 TopK-Acc: 0.9999
+valid Loss: 0.5319 Acc: 0.8780 TopK-Acc: 0.9980
+
+Epoch 15/20
+----------
+train Loss: 0.0361 Acc: 0.9876 TopK-Acc: 1.0000
+valid Loss: 0.4855 Acc: 0.8873 TopK-Acc: 0.9980
+
+Epoch 16/20
+----------
+train Loss: 0.0302 Acc: 0.9903 TopK-Acc: 1.0000
+valid Loss: 0.5054 Acc: 0.8800 TopK-Acc: 0.9980
+
+Epoch 17/20
+----------
+train Loss: 0.0272 Acc: 0.9914 TopK-Acc: 1.0000
+valid Loss: 0.5090 Acc: 0.8887 TopK-Acc: 0.9993
+
+Epoch 18/20
+----------
+train Loss: 0.0255 Acc: 0.9922 TopK-Acc: 1.0000
+valid Loss: 0.5323 Acc: 0.8893 TopK-Acc: 0.9987
+
+Epoch 19/20
+----------
+train Loss: 0.0200 Acc: 0.9936 TopK-Acc: 1.0000
+valid Loss: 0.5138 Acc: 0.8820 TopK-Acc: 0.9973
+
+Epoch 20/20
+----------
+train Loss: 0.0227 Acc: 0.9925 TopK-Acc: 1.0000
+valid Loss: 0.5153 Acc: 0.8827 TopK-Acc: 0.9980
+
+Training complete in 7m 52s
+Best val Acc: 0.889333
+Best val TopK-Acc: 0.999333
+
+
+Epoch 21/30
+----------
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:481: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+train Loss: 0.0219 Acc: 0.9922 TopK-Acc: 1.0000
+valid Loss: 0.5357 Acc: 0.8907 TopK-Acc: 0.9967
+
+Epoch 22/30
+----------
+train Loss: 0.0179 Acc: 0.9950 TopK-Acc: 1.0000
+valid Loss: 0.5175 Acc: 0.8907 TopK-Acc: 0.9980
+
+Epoch 23/30
+----------
+train Loss: 0.0232 Acc: 0.9922 TopK-Acc: 1.0000
+valid Loss: 0.5017 Acc: 0.8880 TopK-Acc: 0.9987
+
+Epoch 24/30
+----------
+train Loss: 0.0150 Acc: 0.9955 TopK-Acc: 1.0000
+valid Loss: 0.5376 Acc: 0.8847 TopK-Acc: 0.9980
+
+Epoch 25/30
+----------
+train Loss: 0.0155 Acc: 0.9956 TopK-Acc: 1.0000
+valid Loss: 0.5410 Acc: 0.8833 TopK-Acc: 0.9987
+
+Epoch 26/30
+----------
+train Loss: 0.0145 Acc: 0.9952 TopK-Acc: 1.0000
+valid Loss: 0.5445 Acc: 0.8900 TopK-Acc: 0.9987
+
+Epoch 27/30
+----------
+train Loss: 0.0143 Acc: 0.9956 TopK-Acc: 1.0000
+valid Loss: 0.5666 Acc: 0.8933 TopK-Acc: 0.9987
+
+Epoch 28/30
+----------
+train Loss: 0.0136 Acc: 0.9962 TopK-Acc: 1.0000
+valid Loss: 0.5700 Acc: 0.8793 TopK-Acc: 0.9980
+
+Epoch 29/30
+----------
+train Loss: 0.0125 Acc: 0.9961 TopK-Acc: 1.0000
+valid Loss: 0.5260 Acc: 0.8880 TopK-Acc: 0.9980
+
+Epoch 30/30
+----------
+train Loss: 0.0107 Acc: 0.9968 TopK-Acc: 1.0000
+valid Loss: 0.5540 Acc: 0.8847 TopK-Acc: 0.9987
+
+Training complete in 8m 1s
+Best val Acc: 0.893333
+Best val TopK-Acc: 0.998667
+
+
+Epoch 31/40
+----------
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:481: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+train Loss: 0.0097 Acc: 0.9976 TopK-Acc: 1.0000
+valid Loss: 0.5778 Acc: 0.8853 TopK-Acc: 0.9980
+
+Epoch 32/40
+----------
+train Loss: 0.0102 Acc: 0.9975 TopK-Acc: 1.0000
+valid Loss: 0.5833 Acc: 0.8867 TopK-Acc: 0.9967
+
+Epoch 33/40
+----------
+train Loss: 0.0132 Acc: 0.9959 TopK-Acc: 1.0000
+valid Loss: 0.5809 Acc: 0.8773 TopK-Acc: 0.9973
+
+Epoch 34/40
+----------
+train Loss: 0.0145 Acc: 0.9956 TopK-Acc: 1.0000
+valid Loss: 0.5552 Acc: 0.8887 TopK-Acc: 0.9973
+
+Epoch 35/40
+----------
+train Loss: 0.0097 Acc: 0.9973 TopK-Acc: 1.0000
+valid Loss: 0.6272 Acc: 0.8760 TopK-Acc: 0.9967
+
+Epoch 36/40
+----------
+train Loss: 0.0088 Acc: 0.9980 TopK-Acc: 1.0000
+valid Loss: 0.5761 Acc: 0.8833 TopK-Acc: 0.9987
+
+Epoch 37/40
+----------
+train Loss: 0.0100 Acc: 0.9971 TopK-Acc: 1.0000
+valid Loss: 0.5867 Acc: 0.8887 TopK-Acc: 0.9980
+
+Epoch 38/40
+----------
+train Loss: 0.0088 Acc: 0.9971 TopK-Acc: 1.0000
+valid Loss: 0.6195 Acc: 0.8807 TopK-Acc: 0.9987
+
+Epoch 39/40
+----------
+train Loss: 0.0091 Acc: 0.9972 TopK-Acc: 1.0000
+valid Loss: 0.5790 Acc: 0.8880 TopK-Acc: 0.9973
+
+Epoch 40/40
+----------
+train Loss: 0.0081 Acc: 0.9981 TopK-Acc: 1.0000
+valid Loss: 0.6062 Acc: 0.8900 TopK-Acc: 0.9987
+
+Training complete in 7m 52s
+Best val Acc: 0.890000
+Best val TopK-Acc: 0.998667
+
+
+Epoch 41/50
+----------
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:481: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+train Loss: 0.0098 Acc: 0.9964 TopK-Acc: 1.0000
+valid Loss: 0.5847 Acc: 0.8847 TopK-Acc: 0.9987
+
+Epoch 42/50
+----------
+train Loss: 0.0080 Acc: 0.9978 TopK-Acc: 1.0000
+valid Loss: 0.5815 Acc: 0.8867 TopK-Acc: 0.9980
+
+Epoch 43/50
+----------
+train Loss: 0.0074 Acc: 0.9979 TopK-Acc: 1.0000
+valid Loss: 0.5793 Acc: 0.8893 TopK-Acc: 0.9987
+
+Epoch 44/50
+----------
+train Loss: 0.0078 Acc: 0.9977 TopK-Acc: 1.0000
+valid Loss: 0.5722 Acc: 0.8927 TopK-Acc: 0.9973
+
+Epoch 45/50
+----------
+train Loss: 0.0049 Acc: 0.9987 TopK-Acc: 1.0000
+valid Loss: 0.5688 Acc: 0.8933 TopK-Acc: 0.9973
+
+Epoch 46/50
+----------
+train Loss: 0.0083 Acc: 0.9975 TopK-Acc: 1.0000
+valid Loss: 0.5730 Acc: 0.8960 TopK-Acc: 0.9980
+
+Epoch 47/50
+----------
+train Loss: 0.0068 Acc: 0.9979 TopK-Acc: 1.0000
+valid Loss: 0.6267 Acc: 0.8867 TopK-Acc: 0.9980
+
+Epoch 48/50
+----------
+train Loss: 0.0087 Acc: 0.9971 TopK-Acc: 1.0000
+valid Loss: 0.6212 Acc: 0.8780 TopK-Acc: 0.9980
+
+Epoch 49/50
+----------
+train Loss: 0.0084 Acc: 0.9971 TopK-Acc: 1.0000
+valid Loss: 0.5801 Acc: 0.8913 TopK-Acc: 0.9987
+
+Epoch 50/50
+----------
+train Loss: 0.0059 Acc: 0.9983 TopK-Acc: 1.0000
+valid Loss: 0.6060 Acc: 0.8920 TopK-Acc: 0.9973
+
+Training complete in 8m 2s
+Best val Acc: 0.896000
+Best val TopK-Acc: 0.998667

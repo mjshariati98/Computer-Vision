@@ -1,0 +1,252 @@
+Epoch 1/10
+----------
+train Loss: 2.6785 Acc: 0.0982 TopK-Acc: 0.4379
+valid Loss: 2.7243 Acc: 0.0887 TopK-Acc: 0.3907
+
+Epoch 2/10
+----------
+train Loss: 2.5917 Acc: 0.1353 TopK-Acc: 0.5077
+valid Loss: 2.5417 Acc: 0.1313 TopK-Acc: 0.5227
+
+Epoch 3/10
+----------
+train Loss: 2.3192 Acc: 0.2409 TopK-Acc: 0.6823
+valid Loss: 2.1320 Acc: 0.2913 TopK-Acc: 0.7307
+
+Epoch 4/10
+----------
+train Loss: 1.9875 Acc: 0.3328 TopK-Acc: 0.7882
+valid Loss: 1.9477 Acc: 0.3467 TopK-Acc: 0.7767
+
+Epoch 5/10
+----------
+train Loss: 1.7792 Acc: 0.3928 TopK-Acc: 0.8402
+valid Loss: 1.7456 Acc: 0.4033 TopK-Acc: 0.8520
+
+Epoch 6/10
+----------
+train Loss: 1.6482 Acc: 0.4381 TopK-Acc: 0.8758
+valid Loss: 1.5484 Acc: 0.4687 TopK-Acc: 0.8913
+
+Epoch 7/10
+----------
+train Loss: 1.5110 Acc: 0.4842 TopK-Acc: 0.9000
+valid Loss: 1.5923 Acc: 0.4727 TopK-Acc: 0.8840
+
+Epoch 8/10
+----------
+train Loss: 1.4004 Acc: 0.5242 TopK-Acc: 0.9168
+valid Loss: 1.3028 Acc: 0.5520 TopK-Acc: 0.9360
+
+Epoch 9/10
+----------
+train Loss: 1.2716 Acc: 0.5676 TopK-Acc: 0.9351
+valid Loss: 1.1346 Acc: 0.6000 TopK-Acc: 0.9447
+
+Epoch 10/10
+----------
+train Loss: 1.1803 Acc: 0.5983 TopK-Acc: 0.9448
+valid Loss: 1.2369 Acc: 0.5993 TopK-Acc: 0.9407
+
+Epoch 11/20
+----------
+train Loss: 1.0738 Acc: 0.6284 TopK-Acc: 0.9562
+valid Loss: 0.9720 Acc: 0.6773 TopK-Acc: 0.9647
+
+Epoch 12/20
+----------
+train Loss: 0.9959 Acc: 0.6586 TopK-Acc: 0.9621
+valid Loss: 1.0107 Acc: 0.6613 TopK-Acc: 0.9647
+
+Epoch 13/20
+----------
+train Loss: 0.9068 Acc: 0.6905 TopK-Acc: 0.9709
+valid Loss: 1.0066 Acc: 0.6653 TopK-Acc: 0.9667
+
+Epoch 14/20
+----------
+train Loss: 0.8359 Acc: 0.7118 TopK-Acc: 0.9769
+valid Loss: 0.9068 Acc: 0.7013 TopK-Acc: 0.9773
+
+Epoch 15/20
+----------
+train Loss: 0.7677 Acc: 0.7337 TopK-Acc: 0.9808
+valid Loss: 1.1469 Acc: 0.6580 TopK-Acc: 0.9553
+
+Epoch 16/20
+----------
+train Loss: 0.7017 Acc: 0.7593 TopK-Acc: 0.9834
+valid Loss: 0.8851 Acc: 0.7187 TopK-Acc: 0.9720
+
+Epoch 17/20
+----------
+train Loss: 0.6414 Acc: 0.7782 TopK-Acc: 0.9877
+valid Loss: 0.8327 Acc: 0.7147 TopK-Acc: 0.9733
+
+Epoch 18/20
+----------
+train Loss: 0.5788 Acc: 0.7989 TopK-Acc: 0.9896
+valid Loss: 0.9881 Acc: 0.7000 TopK-Acc: 0.9613
+
+Epoch 19/20
+----------
+train Loss: 0.5255 Acc: 0.8188 TopK-Acc: 0.9918
+valid Loss: 0.8976 Acc: 0.7207 TopK-Acc: 0.9753
+
+Epoch 20/20
+----------
+train Loss: 0.4742 Acc: 0.8348 TopK-Acc: 0.9941
+valid Loss: 0.8905 Acc: 0.7333 TopK-Acc: 0.9760
+
+Epoch 21/30
+----------
+train Loss: 0.4325 Acc: 0.8484 TopK-Acc: 0.9945
+valid Loss: 1.0217 Acc: 0.7073 TopK-Acc: 0.9700
+
+Epoch 22/30
+----------
+train Loss: 0.3865 Acc: 0.8623 TopK-Acc: 0.9962
+valid Loss: 0.9640 Acc: 0.7180 TopK-Acc: 0.9787
+
+Epoch 23/30
+----------
+train Loss: 0.3453 Acc: 0.8816 TopK-Acc: 0.9971
+valid Loss: 0.9726 Acc: 0.7207 TopK-Acc: 0.9740
+
+Epoch 24/30
+----------
+train Loss: 0.3133 Acc: 0.8929 TopK-Acc: 0.9978
+valid Loss: 1.1635 Acc: 0.6893 TopK-Acc: 0.9693
+
+Epoch 25/30
+----------
+train Loss: 0.2787 Acc: 0.9024 TopK-Acc: 0.9986
+valid Loss: 1.0971 Acc: 0.7347 TopK-Acc: 0.9733
+
+Epoch 26/30
+----------
+train Loss: 0.1633 Acc: 0.9428 TopK-Acc: 0.9995
+valid Loss: 1.0261 Acc: 0.7547 TopK-Acc: 0.9767
+
+Epoch 27/30
+----------
+train Loss: 0.1335 Acc: 0.9555 TopK-Acc: 0.9994
+valid Loss: 1.0721 Acc: 0.7540 TopK-Acc: 0.9753
+
+Epoch 28/30
+----------
+train Loss: 0.1221 Acc: 0.9585 TopK-Acc: 0.9997
+valid Loss: 1.0656 Acc: 0.7640 TopK-Acc: 0.9807
+
+Epoch 29/30
+----------
+train Loss: 0.1197 Acc: 0.9594 TopK-Acc: 0.9998
+valid Loss: 1.1091 Acc: 0.7613 TopK-Acc: 0.9767
+
+Epoch 30/30
+----------
+train Loss: 0.1138 Acc: 0.9613 TopK-Acc: 0.9999
+valid Loss: 1.1091 Acc: 0.7633 TopK-Acc: 0.9793
+
+Epoch 31/40
+----------
+train Loss: 0.1100 Acc: 0.9631 TopK-Acc: 0.9997
+valid Loss: 1.1332 Acc: 0.7553 TopK-Acc: 0.9787
+
+Epoch 32/40
+----------
+train Loss: 0.1063 Acc: 0.9625 TopK-Acc: 0.9998
+valid Loss: 1.1397 Acc: 0.7593 TopK-Acc: 0.9800
+
+Epoch 33/40
+----------
+train Loss: 0.1022 Acc: 0.9649 TopK-Acc: 1.0000
+valid Loss: 1.1639 Acc: 0.7507 TopK-Acc: 0.9807
+
+Epoch 34/40
+----------
+train Loss: 0.0917 Acc: 0.9692 TopK-Acc: 0.9999
+valid Loss: 1.1319 Acc: 0.7600 TopK-Acc: 0.9807
+
+Epoch 35/40
+----------
+train Loss: 0.0919 Acc: 0.9686 TopK-Acc: 0.9998
+valid Loss: 1.1393 Acc: 0.7580 TopK-Acc: 0.9813
+
+Epoch 36/40
+----------
+train Loss: 0.0872 Acc: 0.9717 TopK-Acc: 0.9999
+valid Loss: 1.1486 Acc: 0.7567 TopK-Acc: 0.9800
+
+Epoch 37/40
+----------
+train Loss: 0.0926 Acc: 0.9688 TopK-Acc: 0.9999
+valid Loss: 1.1437 Acc: 0.7593 TopK-Acc: 0.9807
+
+Epoch 38/40
+----------
+train Loss: 0.0899 Acc: 0.9711 TopK-Acc: 0.9997
+valid Loss: 1.1463 Acc: 0.7580 TopK-Acc: 0.9800
+
+Epoch 39/40
+----------
+train Loss: 0.0907 Acc: 0.9682 TopK-Acc: 0.9999
+valid Loss: 1.1557 Acc: 0.7580 TopK-Acc: 0.9793
+
+Epoch 40/40
+----------
+train Loss: 0.0903 Acc: 0.9701 TopK-Acc: 0.9999
+valid Loss: 1.1545 Acc: 0.7613 TopK-Acc: 0.9807
+
+Epoch 41/50
+----------
+train Loss: 0.0902 Acc: 0.9697 TopK-Acc: 0.9999
+valid Loss: 1.1552 Acc: 0.7613 TopK-Acc: 0.9793
+
+Epoch 42/50
+----------
+train Loss: 0.0903 Acc: 0.9689 TopK-Acc: 0.9999
+valid Loss: 1.1553 Acc: 0.7600 TopK-Acc: 0.9793
+
+Epoch 43/50
+----------
+train Loss: 0.0874 Acc: 0.9691 TopK-Acc: 0.9999
+valid Loss: 1.1542 Acc: 0.7613 TopK-Acc: 0.9793
+
+Epoch 44/50
+----------
+train Loss: 0.0890 Acc: 0.9715 TopK-Acc: 0.9999
+valid Loss: 1.1536 Acc: 0.7613 TopK-Acc: 0.9793
+
+Epoch 45/50
+----------
+train Loss: 0.0906 Acc: 0.9697 TopK-Acc: 0.9999
+valid Loss: 1.1548 Acc: 0.7607 TopK-Acc: 0.9793
+
+Epoch 46/50
+----------
+train Loss: 0.0862 Acc: 0.9711 TopK-Acc: 0.9997
+valid Loss: 1.1550 Acc: 0.7600 TopK-Acc: 0.9793
+
+Epoch 47/50
+----------
+train Loss: 0.0859 Acc: 0.9717 TopK-Acc: 0.9999
+valid Loss: 1.1547 Acc: 0.7600 TopK-Acc: 0.9793
+
+Epoch 48/50
+----------
+train Loss: 0.0897 Acc: 0.9705 TopK-Acc: 0.9999
+valid Loss: 1.1537 Acc: 0.7607 TopK-Acc: 0.9793
+
+Epoch 49/50
+----------
+train Loss: 0.0870 Acc: 0.9718 TopK-Acc: 1.0000
+valid Loss: 1.1527 Acc: 0.7600 TopK-Acc: 0.9793
+
+Epoch 50/50
+----------
+train Loss: 0.0875 Acc: 0.9713 TopK-Acc: 0.9999
+valid Loss: 1.1528 Acc: 0.7600 TopK-Acc: 0.9793
+
+Best val Acc: 0.764000
+Best val TopK-Acc: 0.981333
